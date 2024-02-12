@@ -1,0 +1,3 @@
+export const PRICES_UPDATE = 'PRICES_UPDATE';
+export const EDIT_MODE_TOGGLE = 'EDIT_MODE_TOGGLE';
+export const AMOUNTS_SAVE = 'AMOUNTS_SAVE';
